@@ -6,6 +6,12 @@ This repositry contains the alternate version of the classic game "ROCK-PAPER-SC
 
 "ROCK-PAPER-SCISSOR-LIZARD-SPOCK" is an alternate to the traditional game adding two more components to the game other than the traditional ROCK, PAPER, SCISSOR. The additional components being the "SPOCK" and "LIZARD". 
 
+## How to Run The Game :
+
+This is a desktop application, Therefore please run the Main.py file to start the game.
+    
+    python Main.py
+
 ## Rules to Play the Game :
 
 Scissor beats Paper <br>
