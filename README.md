@@ -1,6 +1,6 @@
 # [Rock-Paper_Scissor-Lizard-Spock]
 
-    ![](Home.png)
+![](Home.png)
 
 This repositry contains the alternate version of the classic game "ROCK-PAPER-SCISSOR". 
 
@@ -30,4 +30,4 @@ We recommend using at least these versions of the required libraries or later. P
     
 ## Ouput Glance :
 
-    ![](output.png)
+![](output.png)
