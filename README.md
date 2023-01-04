@@ -8,16 +8,16 @@ This repositry contains the alternate version of the classic game "ROCK-PAPER-SC
 
 ## Rules to Play the Game :
 
-Scissor beats Paper<b>
-Scissor beats Lizard<b>
-Paper beats Rock<b>
-Paper beats Spock<b>
-Rock beats Scissor<b>
-Rock beats Lizard<b>
-Lizard beats Spock<b>
-Lizard beats Paper<b>
-Spock beats Scissor<b>
-Spock beats Rock<b>
+Scissor beats Paper <br>
+Scissor beats Lizard<br>
+Paper beats Rock<br>
+Paper beats Spock<br>
+Rock beats Scissor<br>
+Rock beats Lizard<br>
+Lizard beats Spock<br>
+Lizard beats Paper<br>
+Spock beats Scissor<br>
+Spock beats Rock<br>
 
 ## Requirements :
 
