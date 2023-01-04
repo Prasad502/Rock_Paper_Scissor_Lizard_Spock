@@ -1,6 +1,6 @@
 # [Rock-Paper_Scissor-Lizard-Spock]
 
-![](Home.png)
+    ![](Home.png)
 
 This repositry contains the alternate version of the classic game "ROCK-PAPER-SCISSOR". 
 
@@ -8,18 +8,18 @@ This repositry contains the alternate version of the classic game "ROCK-PAPER-SC
 
 ## Rules to Play the Game :
 
-Scissor beats Paper
-Scissor beats Lizard
-Paper beats Rock
-Paper beats Spock
-Rock beats Scissor
-Rock beats Lizard
-Lizard beats Spock
-Lizard beats Paper
-Spock beats Scissor
-Spock beats Rock
+Scissor beats Paper<b>
+Scissor beats Lizard<b>
+Paper beats Rock<b>
+Paper beats Spock<b>
+Rock beats Scissor<b>
+Rock beats Lizard<b>
+Lizard beats Spock<b>
+Lizard beats Paper<b>
+Spock beats Scissor<b>
+Spock beats Rock<b>
 
-## Requirements
+## Requirements :
 
 These assignments has been tested and developed using the following libraries: 
 
@@ -27,4 +27,7 @@ These assignments has been tested and developed using the following libraries:
     - eel == 0.8 or higher
     
 We recommend using at least these versions of the required libraries or later. Python 2 is not supported.
+    
+## Ouput Glance :
 
+    ![](output.png)
